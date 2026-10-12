@@ -1,0 +1,6 @@
+{
+  "name": "SIM-PJMK & Absensi Lintas Kelas",
+  "description": "Sistem informasi manajemen penanggung jawab mata kuliah (PJMK), presensi pindah kelas sementara antar-kelas paralel, mesin verifikasi otomatis, dan dashboard monitoring real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
